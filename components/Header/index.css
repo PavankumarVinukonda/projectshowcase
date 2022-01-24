@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.bg-header {
+  height: 10vh;
+  width: 100vw;
+  background-color: #cbd5e1;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  height: 60px;
+  width: 150px;
+  margin-left: 20px;
+}
